@@ -16,7 +16,7 @@ mvn clean install
 mvn spring-boot:run
 ```
 
-Access Swagger UI at `http://localhost:8080/swagger-ui/`
+Access Swagger UI at `http://localhost:9090/swagger-ui/swagger-ui/index.html`
 
 ## Tech Stack
 - Java 8
